@@ -11,16 +11,14 @@ class: center, middle
   - Elements - ReactDOM
   - Components
 3. State, Reconciliation, Component Architecture
-4. Advantages
-  - Metrics
-  - Functional Programming
 
 ---
 
 #Intro
 - React was created to reduce complexity of managing state.
 - React simply represents state of app with unidirectional data flow from state to presentation.
-- No more templating. Just pure JavaScript objects, data types and functions.
+- No more templating. Just pure JavaScript objects, data types and functional encapsulation.
+- Easy to read declarative syntax.
 
 ---
 
